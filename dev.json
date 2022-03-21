@@ -1,0 +1,69 @@
+{
+	"id": "6432ef52-149f-4c3e-ba39-f437fc0c0d38",
+	"name": "Qa Coders - DEV",
+	"values": [
+		{
+			"key": "URL",
+			"value": "https://qacoders-dev-br.umbler.net",
+			"enabled": true
+		},
+		{
+			"key": "FirstName",
+			"value": "FirstName",
+			"enabled": true
+		},
+		{
+			"key": "LastName",
+			"value": "LastName",
+			"enabled": true
+		},
+		{
+			"key": "FullName",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "EmailProvider",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "GuidID",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "UserRegister",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "TokenResults",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ValidEmail",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "ValidPassword",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "InconsistentPassword",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-08-09T12:51:01.408Z",
+	"_postman_exported_using": "Postman/8.8.0"
+}
